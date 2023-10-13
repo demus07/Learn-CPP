@@ -1,0 +1,19 @@
+[main] array_question 1000 (0) exception: trapped!
+[main] array_question 1000 (0) exception: code 0xC00000FD at 0x40D4C3
+[main] array_question 1000 (0) exception: ax 0x71C3750 bx 0x246FDCF cx 0x472D74 dx 0x91BF750
+[main] array_question 1000 (0) exception: si 0x48DFBA00 di 0x91BF740 bp 0x246FDB0 sp 0x246FD6C
+[main] array_question 1000 (0) exception: exception is: STATUS_STACK_OVERFLOW
+[main] array_question 1000 (0) stack: Stack trace:
+[main] array_question 1000 (0) stack: frame 0: sp = 0x246F130, pc = 0x6100A2C3
+[main] array_question 1000 (0) stack: frame 1: sp = 0x246F16C, pc = 0x77258872
+[main] array_question 1000 (0) stack: frame 2: sp = 0x246F190, pc = 0x77258844
+[main] array_question 1000 (0) stack: frame 3: sp = 0x246F25C, pc = 0x772387B6
+[main] array_question 1000 (1) stack: frame 4: sp = 0x246FDB0, pc = 0x61004402
+[main] array_question 1000 (0) stack: frame 5: sp = 0x246FF3C, pc = 0x61004420
+[main] array_question 1000 (0) stack: frame 6: sp = 0x246FF48, pc = 0x4132CE
+[main] array_question 1000 (0) stack: frame 7: sp = 0x246FF58, pc = 0x40103A
+[main] array_question 1000 (0) stack: frame 8: sp = 0x246FF74, pc = 0x75947BA9
+[main] array_question 1000 (0) stack: frame 9: sp = 0x246FF84, pc = 0x7722B79B
+[main] array_question 1000 (0) stack: frame 10: sp = 0x246FFDC, pc = 0x7722B71F
+[main] array_question 1000 (0) stack: frame 11: sp = 0x246FFEC, pc = 0x0
+[main] array_question 1000 (0) stack: End of stack trace
